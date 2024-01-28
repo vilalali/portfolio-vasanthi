@@ -2,11 +2,6 @@
 
 Self Coded Portfolio Website made using React JS and VASANTHI UI.
 
-
-## Live Demo 
-
-- Click [here](#) to view the live demo.
-
 ## Features 📋
 
 ⚡️ Dark and Light Theme \
@@ -30,7 +25,7 @@ Self Coded Portfolio Website made using React JS and VASANTHI UI.
 **1. Clone this repo by running the following command :-**
 
 ```bash
- 
+git clone https://github.com/vilalali/portfolio-vasanthi.git 
 ```
 
 **2. Now Install all the required packages by running the following commands :-**
